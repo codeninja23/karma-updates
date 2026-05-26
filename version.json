@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.4.0/Karma.dmg",
-  "publishedAt": "2026-05-26T18:05:15Z",
-  "notes": "Proposals now sync cross-machine — Approvals queue is live."
+  "version": "1.5.0",
+  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.5.0/Karma.dmg",
+  "publishedAt": "2026-05-26T18:15:18Z",
+  "notes": "Library folders and skill dependencies now sync across machines."
 }
