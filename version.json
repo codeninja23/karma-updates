@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.2.0/Karma.dmg",
-  "publishedAt": "2026-05-26T16:19:11Z",
-  "notes": "Shared & org-scope skills now sync across machines — teammates see your library on next launch."
+  "version": "1.3.0",
+  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.3.0/Karma.dmg",
+  "publishedAt": "2026-05-26T17:02:28Z",
+  "notes": "Realtime sync, in-app invite admin, auto-join codes, and visible error toasts."
 }
