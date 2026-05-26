@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/latest",
-  "notes": "Local update-banner test — will revert.",
-  "publishedAt": "2026-05-26T19:00:00Z"
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.0.0/Karma-1.0.0-arm64.dmg",
+  "notes": "First internal release.",
+  "publishedAt": "2026-05-26T19:30:00Z"
 }
