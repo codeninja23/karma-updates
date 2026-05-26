@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.0.0/Karma-1.0.0-arm64.dmg",
-  "notes": "First internal release. macOS install: open the DMG, drag Karma to Applications, then double-click \"Open Karma.command\" inside the DMG.",
-  "publishedAt": "2026-05-26T20:55:00Z"
+  "version": "1.1.0",
+  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.1.0/Karma.dmg",
+  "publishedAt": "2026-05-26T15:48:36Z",
+  "notes": "Sign in with email — accounts now live in the cloud. Invite + join codes; solo mode."
 }
