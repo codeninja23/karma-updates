@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.6.0/Karma.dmg",
-  "publishedAt": "2026-05-27T00:51:01Z",
-  "notes": "Targeted sharing — share with specific teammates. Plus .skill / .zip drag-drop import and sandboxed HTML preview."
+  "version": "1.6.1",
+  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.6.1/Karma.dmg",
+  "publishedAt": "2026-05-27T02:07:26Z",
+  "notes": "Targeted-share cloud sync fix + UX: restricted shares stay in My Skills with a 'shared with N' chip."
 }
