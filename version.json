@@ -1,9 +1,10 @@
 {
   "version": "1.7.0",
   "downloads": {
-    "darwin": "https://github.com/codeninja23/karma-updates/releases/download/v1.7.0/Karma.dmg"
+    "darwin": "https://github.com/codeninja23/karma-updates/releases/download/v1.7.0/Karma.dmg",
+    "win32": "https://github.com/codeninja23/karma-updates/releases/download/v1.7.0/Karma-Setup.exe"
   },
   "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.7.0/Karma.dmg",
-  "publishedAt": "2026-05-27T02:49:45Z",
-  "notes": "One-click in-app updates on macOS. Better Org Skills empty state. Restricted-share visibility fix."
+  "publishedAt": "2026-05-27T03:18:50Z",
+  "notes": "One-click in-app updates on macOS + Windows. Restricted-share visibility fix. Better Org Skills empty state."
 }
