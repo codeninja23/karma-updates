@@ -1,6 +1,9 @@
 {
-  "version": "1.6.1",
-  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.6.1/Karma.dmg",
-  "publishedAt": "2026-05-27T02:07:26Z",
-  "notes": "Targeted-share cloud sync fix + UX: restricted shares stay in My Skills with a 'shared with N' chip."
+  "version": "1.7.0",
+  "downloads": {
+    "darwin": "https://github.com/codeninja23/karma-updates/releases/download/v1.7.0/Karma.dmg"
+  },
+  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.7.0/Karma.dmg",
+  "publishedAt": "2026-05-27T02:49:45Z",
+  "notes": "One-click in-app updates on macOS. Better Org Skills empty state. Restricted-share visibility fix."
 }
