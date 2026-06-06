@@ -1,10 +1,10 @@
 {
-  "version": "1.22.0",
+  "version": "1.23.0",
   "downloads": {
-    "darwin": "https://github.com/codeninja23/karma-updates/releases/download/v1.22.0/Karma.dmg",
-    "win32": "https://github.com/codeninja23/karma-updates/releases/download/v1.22.0/Karma-Setup.exe"
+    "darwin": "https://github.com/codeninja23/karma-updates/releases/download/v1.23.0/Karma.dmg",
+    "win32": "https://github.com/codeninja23/karma-updates/releases/download/v1.23.0/Karma-Setup.exe"
   },
-  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.22.0/Karma.dmg",
-  "publishedAt": "2026-06-06T14:41:33Z",
-  "notes": "Tags now work across your whole library.\n\n• Clicking a tag shows every skill with that tag — yours, shared-with-you, and org standards — grouped by scope, instead of filtering only the section you're in.\n• An org tag leads with org standards; a personal tag leads with your own skills."
+  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.23.0/Karma.dmg",
+  "publishedAt": "2026-06-06T16:02:39Z",
+  "notes": "A calmer update experience.\n\n• The update prompt is now a quiet 'Relaunch to update' chip in the sidebar instead of a full-width banner — it downloads in the background, so it's one click to relaunch.\n• If you're several versions behind, a banner still appears as a reminder."
 }
