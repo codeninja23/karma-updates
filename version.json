@@ -1,10 +1,10 @@
 {
-  "version": "1.36.1",
+  "version": "1.37.0",
   "downloads": {
-    "darwin": "https://github.com/codeninja23/karma-updates/releases/download/v1.36.1/Karma.dmg",
-    "win32": "https://github.com/codeninja23/karma-updates/releases/download/v1.36.1/Karma-Setup.exe"
+    "darwin": "https://github.com/codeninja23/karma-updates/releases/download/v1.37.0/Karma.dmg",
+    "win32": "https://github.com/codeninja23/karma-updates/releases/download/v1.37.0/Karma-Setup.exe"
   },
-  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.36.1/Karma.dmg",
-  "publishedAt": "2026-06-10T13:24:00Z",
-  "notes": "Update to 1.36.1."
+  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.37.0/Karma.dmg",
+  "publishedAt": "2026-06-10T18:30:58Z",
+  "notes": "Update to 1.37.0."
 }
