@@ -1,12 +1,12 @@
 {
-  "version": "1.47.9",
+  "version": "1.47.10",
   "downloads": {
-    "darwin-arm64": "https://github.com/codeninja23/karma-updates/releases/download/v1.47.9/Karma.dmg",
-    "darwin-x64": "https://github.com/codeninja23/karma-updates/releases/download/v1.47.9/Karma-Intel.dmg",
-    "darwin": "https://github.com/codeninja23/karma-updates/releases/download/v1.47.9/Karma.dmg",
-    "win32": "https://github.com/codeninja23/karma-updates/releases/download/v1.47.9/Karma-Setup.exe"
+    "darwin-arm64": "https://github.com/codeninja23/karma-updates/releases/download/v1.47.10/Karma.dmg",
+    "darwin-x64": "https://github.com/codeninja23/karma-updates/releases/download/v1.47.10/Karma-Intel.dmg",
+    "darwin": "https://github.com/codeninja23/karma-updates/releases/download/v1.47.10/Karma.dmg",
+    "win32": "https://github.com/codeninja23/karma-updates/releases/download/v1.47.10/Karma-Setup.exe"
   },
-  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.47.9/Karma.dmg",
-  "publishedAt": "2026-10-25T20:53:30Z",
-  "notes": "Update to 1.47.9."
+  "downloadUrl": "https://github.com/codeninja23/karma-updates/releases/download/v1.47.10/Karma.dmg",
+  "publishedAt": "2026-10-26T10:14:16Z",
+  "notes": "Update to 1.47.10."
 }
